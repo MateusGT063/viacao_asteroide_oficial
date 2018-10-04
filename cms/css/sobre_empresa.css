@@ -1,0 +1,364 @@
+/** CSS **/
+
+#area_sobre_empresa {
+    width: 100%;
+    height: 700px;
+    background-color: aliceblue;
+}
+
+#titulo_sobre_empresa_pagina {
+    width: 400px;
+    height: auto;
+    color: black;
+    margin: auto;
+    font-weight: bold;
+    font-family: helvetica;
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+hr {
+    border:solid 1px;
+    
+}
+
+#titulo_texto_sobre_empresa {
+    margin-left: 370px;
+    
+}
+
+#espaco_cadastro_sobre_empresa {
+    width: 900px;
+    height: 360px;
+    background-color: darkgray;
+    margin-top: 20px;
+    margin-left: 250px;
+    border-radius: 20px;
+    
+}
+
+#h2_titulo{
+     font-family: monospace;
+    font-size: 18px;   
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+textarea {
+    resize: none;
+    
+}
+
+#text_area_cadastro {
+    width: 500px;
+    margin-left: 200px;
+    height: 150px;
+}
+
+#salvar_texto {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    margin-top: 170px;
+    margin-left: -100px;
+    border-radius: 10px;
+    transition: 0.3s;
+    
+}
+
+.botaoSS{
+    height: 30px;
+    width: 180px;
+    margin: auto;
+    margin-top: 15PX;
+/*    background-color: aqua;*/
+}
+
+.botao11s{
+    height: 30px;
+    width: 180px;
+}
+
+
+#salvar_texto:hover {
+    background-color: lightgrey;
+    transition: 0.3s; 
+    
+}
+
+#ImagensEditarEmpresa{
+    height: 130px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+/*    background-color: darkcyan;*/
+}
+
+
+#trocaImg1{
+    width: 105px;
+    height: 110px;
+/*    padding-right: 5px;*/
+/*    padding-top: 10px;*/
+    margin-top: 10px;
+    margin-left: 19px;
+    float: left;
+    text-align: right;
+    line-height: 120px;
+/*    background-color: forestgreen;*/
+}
+
+#trocaImg1 img{
+    width: 100px;
+    height: 100px;
+}
+
+
+#h2_titulo_2 {
+     font-family: monospace;
+    font-size: 18px;   
+    text-align: center;
+    padding-top: 70px;  
+    margin-left: -360px;
+}
+
+#div_upload_imagem {
+    margin:auto;
+    width:200px;
+    height: 70px;
+    font-family: monospace;
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 400px;
+}
+
+#tabela_sobre_empresa {
+    width: 820px;
+    height: 180px;
+    border: solid 1px;
+    margin-top: 60px;
+    margin-left: 300px;
+    background-color: white;
+    overflow: auto;
+    margin-bottom: 10px;
+        
+}
+
+#titulo_tabela_sobre_empresa {
+    width: 803px;
+    height: 35px;
+    background-color: black;
+
+}
+
+.espaco_titulo_tabela {
+    float: left;
+    width: 198px;
+    color: white;
+    border: solid 1px;
+    border-color: white;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#conteudo_tabela_sobre_empresa {
+    width: 800px;    
+    height: 25px;
+    border: solid 1px;
+/*    background-color: darkblue;*/
+}
+
+
+.espaco_titulo_tabela_conteudo {
+    float: left;
+    height: 25px;
+    width: 198px;
+    color: black;
+    border: solid 1px;
+    text-align: center;
+/*    background-color: red;*/
+  
+    
+}
+
+.area_ativo_sobre_empresa {
+    width: auto;
+    height: 25px;
+    float: left;
+    margin-left: 12px;
+
+}
+
+#espaco_inserir_sobre_empresa {
+    width: 1350px;
+    height: 220px;
+    margin: auto;
+    margin-top: 20px;
+/*    background-color: forestgreen;*/
+    
+}
+
+#esquerdo_espaco_inserir_sobre_empresa {
+    height: 100%;
+    width: 50%;
+    float: left;
+/*    background-color: red;*/
+    margin-left: 60px;
+}
+
+.titulo_area_sobre_empresa {
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+
+
+.area_sobre_empresa {
+    width: 650px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#direto_espaco_inserir_sobre_empresa {
+    height: 100%;
+    width: 30%;
+    float: left;
+    margin-left:5px;
+/*    background-color: antiquewhite;*/
+    
+}
+
+.imagem_empresa {
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 17px;
+    float: left;
+/*    background-color: aliceblue;*/
+    
+}
+
+#salvar {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 200px;
+    
+}
+
+.titulo_area_sobre_empresa_img {
+    width: 100%;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    float: none;
+/*    margin-top: 30px;*/
+/*    background-color: forestgreen;   */
+}
+
+.seguraSE{
+    width: 600px;
+    height: 40px;
+/*    background-color: dodgerblue;*/
+}
+
+
+#caixaDicas_sobre_empresa{
+    width: 55%;
+    height: 390px;
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+
+
+#titleDicas_sobre_empresa{
+    min-height: 5px;
+    height: auto;
+    overflow: hidden;
+/*    background-color: #4F71C4;*/
+    width: 100%;
+    margin: auto;
+    font-family: 'Verdana';
+    font-size: 15pt;
+    text-align: center;
+}
+
+#caixaCresceDica_sobre_empresa{
+    height: 360px;
+    overflow: auto;
+    width: 100%;
+    margin: auto;
+
+}
+
+
+.conteudoEmpresa{
+    height: 60px;
+    width: 250px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: aliceblue;
+/*    overflow: auto;*/
+    padding-top: 5px;
+    overflow-y: auto;
+}
+
+.conteudoEmpresa1{
+    height: 60px;
+    width: 250px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: aliceblue;
+/*    overflow: auto;*/
+    padding-top: 5px;
+    
+}
+
+.conteudoEmpresa1 img{
+    width: 78px;
+    height: 55px;
+}
+
+.titulo1_empresa{
+/*    margin-left: 20px;*/
+    width: 250px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    background-color: #161617;
+    color: #D1581A;
+}
+
+.editar_sobre_empresa {
+    float: left;
+    height: 35px;
+    width: 65px;
+    margin-left: 10px;
+    
+/*    background-color: aliceblue;*/
+}
+
+.editar_sobre_empresa img{
+    height: 20px;
+    width: 20px;
+}
+
+

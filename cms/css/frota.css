@@ -1,0 +1,300 @@
+/*CSS da pagina Seja Bem Vindo */
+
+#caixa_cont{
+    
+    width: 1498px;
+    height: 710px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left; 
+    border: 1px #1c1c1e solid;
+    padding-top: 10px;
+    
+}
+
+/*Marketing*/
+
+#marketing{
+    
+    width: 1498px;
+    height: 100px;
+    font-size: 25pt;
+    text-align: center;
+    line-height: 100px;
+}
+
+#titulo_pagina1{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 26pt;
+    margin-left: auto;
+    margin-right: auto;
+/*    background-color: dimgrey;*/
+}
+
+#menuMarketing{
+    
+    width: 1440px;
+    margin: auto;
+    height: 50px;
+    margin-top: 30px;
+    
+    
+}
+
+.menu{
+    
+    width: 169px;
+    height: 50px;
+    float: left;
+    margin-left: 30px;
+    font-size: 20pt;
+    text-align: center;
+    line-height: 50px;
+    border: 1px #f09136 solid;
+}
+
+
+/*Contatos*/
+
+#area_registro{
+    width: 1460px;
+    height: 590px;
+    margin-top: 10px;
+   border: 1px #1c1c1e solid;
+    
+    
+}
+#menu_contato{
+      width: 210px;
+    height: 610px;
+    /* background-color: red; */
+    padding-top: 10px;
+    float: left;
+    margin-left: -20px;
+    background: #1c1c1e;
+}
+
+#menu_contato11{
+      width: 210px;
+    height: 592px;
+    /* background-color: red; */
+    padding-top: 10px;
+    float: left;
+    margin-left: -20px;
+    background: #1c1c1e;
+}
+#menu_contato12{
+      width: 210px;
+    height: 580px;
+    /* background-color: red; */
+    padding-top: 10px;
+    float: left;
+    margin-left: -20px;
+    background: #1c1c1e;
+}
+
+#menu_contatos12{
+    width: 210px;
+    height: 660px;
+    background-color: #4F71C4;   
+    float: left;
+}
+
+.espaco_menu_frota{
+    width: 208px;
+    height: 50px;
+    background-color: #161617;
+ 
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 50px; 
+    
+}
+
+#contatos_frota{
+    width: 100%;
+    height: 600px;
+    font-size: 15pt;
+    text-align: center;
+    margin-right: 50px;
+    border: 1px solid #161617;
+/*    background-color: forestgreen;*/
+    
+    
+}
+
+#frotaszinhas{
+    width: 100%;
+    height: 100%;
+    font-size: 15pt;
+    text-align: center;
+/*    background-color: forestgreen;*/
+    
+    
+}
+
+
+
+.cont_frota{
+    
+    width: 1280px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    margin-top: 50px;
+/*    background-color: blue;*/
+}
+
+
+#sustent_frota{
+    
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+    padding-top: 10px;
+/*    background-color: antiquewhite;*/
+}
+
+
+#text_frota{
+    width: 600px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+/*    margin-top: 20px;*/
+/*    background-color: darkslategray;*/
+    
+}
+
+#imagem{
+    width: 130px;
+    height: 50px;
+    font-size: 15pt;
+    text-align: center;
+    line-height: 50px;
+    float: left;
+    margin-left: 130px;
+/*    background-color: dimgrey;*/
+    margin-top: 20px;
+    
+    
+}
+
+#caixa_img{
+    width: 140px;
+    height: 100px;
+    margin-left: 270px;
+    padding-top: 10px;
+/*    background-color: red;*/
+    
+}
+
+
+#caixa_img img{
+    width: 140px;
+    height: 100px;
+/*    margin-top: -20px;*/ 
+}
+
+.alinhaFrotaImg{
+/*    background-color: dodgerblue;*/
+    width: 400px;
+}
+
+#botao_img{
+    width: 190px;
+    height: 20px;
+    margin-top:-25px;
+    margin-left: 140px;
+/*    background-color: aliceblue;*/
+  
+    
+}
+
+#sustnt_frota{
+    
+    width: 370px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+/*    background-color: darkturquoise;*/
+}
+
+
+#sobre{
+    width: 100px;
+    height: 50px;
+    font-size: 15pt;
+    line-height: 40px;
+    float: left;
+   
+
+
+    
+}
+
+#espaco_list{
+
+  width: 1250px;
+  height: 95%;
+  margin-left: 220px;
+  margin-top: 10px;
+/*    background-color: aqua;*/
+
+}
+
+#sust_list_frota{
+    width: auto;
+    height: 60px;
+/*    background-color: blueviolet;*/
+}
+
+#cont_list_frotas{
+    height: 500px;
+    overflow-y: scroll;
+  
+}
+
+#espaco_sobre{
+    width: 250px;
+    height: 70px;
+    margin-left: auto;
+}
+
+.registroFrotas{
+    height: 40px;
+    width: 250px;
+    float: left;
+    margin-left: 50px;
+    border: solid 1px;
+    padding-top: 10px;
+    overflow: auto;
+/*    background-color: firebrick;*/
+}
+
+#ajuste_frota{
+    width: 245px;
+    height: 70px;
+}
+
+#espaco_sobre1{
+    
+    margin-top: 10px;
+    width: 390px;
+    height: 100px;
+    margin-left: auto;
+}
+
+#botao_frota{
+    width: 60px;
+    height: 20px;
+    margin-left: 1060px;
+    margin-top: -5px;
+    
+}

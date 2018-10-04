@@ -1,0 +1,413 @@
+/*CSS da pagina Seja Bem Vindo */
+
+/* Área do conteudo */
+
+#area_adm_turismo{
+    width: 1400px;
+    height: 700px;
+/*    padding: 50px;*/
+    float: left;
+/*    background-color: aqua;*/
+}
+
+#caixa_dentro_area_adm_turismo{
+    width: 90%;
+    min-height: 1px;
+    margin: auto;
+    height: auto;
+    overflow: hidden;
+/*    background-color: dimgrey;*/
+}
+
+
+/*************************************************/
+/* Modularização dos botões que aparecem em cima */
+
+#titulo_pagina_principal{
+    width: 1400px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 26pt;
+}
+
+#botoes_cima{
+    width: 1378px;
+    height: 85px;
+    padding-left: 10px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+#botoes_cima ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#botoes_cima ul li{
+    width: 170px;
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    font-size: 18pt;
+    line-height: 60px;
+    border-right: solid 1px #4F71C4;
+    border-left: solid 1px #4F71C4;
+}
+
+/*************************************************/
+
+#segura_conteudo_dicas{
+    width: 90%;
+    height: auto;
+    min-height: 100px;
+    overflow: hidden;
+    border: solid 1px #4F71C4;
+/*    background-color: antiquewhite;*/
+/*    margin: auto;*/
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Parte do menu lateral */
+
+
+#menu_lateral_area_turismo{
+    width: 300px;
+    height: 600px;
+    padding-top: 20px;
+    background-color: #4F71C4;
+    float: left;
+}
+
+#menu_lateral_area_turismo ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu_lateral_area_turismo ul li{
+    width: 300px;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 18pt;
+    text-align: center;
+    line-height: 50px;
+    background-color: #8191FF;
+    margin-bottom: 20px;
+}
+
+
+/* Parte do cadastro! */
+
+#cadastro_turismo{
+    width: 90%;
+    height: auto;
+/*    float: left;*/
+    font-size: 15pt;
+/*    background-color: aqua;*/
+    margin-left: 50px;
+}
+
+#titulo_pagina{
+    width: 1100px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 22pt;
+}
+
+
+
+/* Área para salvar uma nova Dica */
+
+#seguraLocais{
+    width: 650px;
+/*    background-color: forestgreen;*/
+    margin: auto;
+    height: auto;
+    min-height: 1px;
+    overflow: hidden;
+}
+
+
+#textoDesc1{
+    width: 220px;
+/*    margin: auto;*/
+    text-align: center;
+    margin-top: 5px;
+/*    background-color: dodgerblue;*/
+    float: left;
+}
+
+#caixaLocal{
+    width: 400px;
+/*    background-color: firebrick;*/
+    float: left;
+}
+
+#alinhaLocal{
+    width: 390px;
+    height: 30px;
+    text-align: center;
+}
+
+#seguraItens{
+/*    height: auto;*/
+    width: 700px;
+/*    background-color: dimgray;*/
+    margin: auto;
+}
+
+#caixaFotos{
+    height: auto;
+    min-height: 1px;
+    overflow: hidden;
+    width: 100%;
+/*    background-color: aliceblue;*/
+/*    float: left;*/
+/*    margin: auto;*/
+    margin-top: 5px;    
+}
+
+#textoDica{
+    width: 220px;
+/*    background-color: red;*/
+    float: left;
+    margin-top: 18px;
+    margin-left: 23px;
+    text-align: center;
+}
+
+#caixaImg{
+    width: 300px;
+    height: 30px;
+    float: left;
+    margin-top: 18px;
+/*    background-color: bisque;*/
+    margin-left: 40px;
+}
+
+/* Div que vai ficar a imagem que a pessoa tem quando for editar*/
+
+#trocaImg{
+    width: 105px;
+    height: 110px;
+    padding-right: 5px;
+    padding-top: 10px;
+    float: left;
+    text-align: right;
+    line-height: 120px;
+/*    background-color: forestgreen;*/
+}
+
+#trocaImg img{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+#seguraText{
+    height: auto;
+/*    background-color: antiquewhite;*/
+    width: 650px;
+    margin: auto;
+    margin-top: 8px;
+}
+
+#textoText{
+    width: 220px;
+    float: left;
+    text-align: center;
+/*    background-color: cadetblue;*/
+}
+
+#text_area11{
+    margin-left: 250px;
+}
+
+#textArea1{
+    resize: none;
+}
+
+#botao{
+    height: 50px;
+    width: 100px;
+    margin: auto;
+/*    background-color: forestgreen;*/
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+#alinhamentoBt{
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+/*    margin-bottom: 100px;*/
+}
+
+
+
+/* Lugar onde sera a tabela com as dicas e as opcoes do crud*/
+
+#caixaDicas{
+    width: 90%;
+    height: 345px;
+/*    background-color: deepskyblue;*/
+    margin: auto;
+    margin-top: 20px;
+}
+
+#titleDicas{
+    min-height: 5px;
+    height: auto;
+    overflow: hidden;
+/*    background-color: #4F71C4;*/
+    width: 92%;
+    margin: auto;
+    font-family: 'Verdana';
+    font-size: 15pt;
+    text-align: center;
+    
+   
+}
+
+.titulo1{
+/*    margin-left: 20px;*/
+    width: 250px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+     color: #FF7500;
+    background-color: #161617;
+}
+
+#caixaCresceDica{
+    height: 184px;
+    overflow: auto;
+    width: 92%;
+    margin: auto;
+/*    background-color: blue;*/
+}
+
+.conteudoDica{
+    height: 25px;
+    width: 250px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: aliceblue;
+    overflow: auto;
+    padding-top: 5px;
+    
+}.conteudoDica img{
+    height: 20px;
+    width: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Área da tabela que mostra todos os registros */
+
+
+#area_tabela_turismo{
+    width: 1100px;
+    height: 275px;
+    padding-top: 5px;
+    background-color: red;
+}
+
+#tabela_turismo{
+    width: 800px;
+    height: 270px;
+    margin: auto;
+    border: solid 1px #4F71C4;
+}
+
+#linha_cima_tabela_turismo{
+    width: 800px;
+    height: 20px;
+    text-align: center;
+    background-color: #4F71C4;
+}
+
+.itens_tabela_turismo{
+    width: 220px;
+    height: 20px;
+    float: left;
+}
+
+#opcoes_itens_tabela_turismo{
+    width: 120px;
+    height: 20px;
+    float: left;
+}
+
+#caixa_mostra_registros_tabela_turismo{
+    width: 800px;
+    height: 250px;
+    text-align: center;
+    line-height: 44px;
+    overflow: auto;
+}
+
+.itens_registros_tabela_turismo{
+    width: 212px;
+    height: 44px;
+    padding-left: 4px;
+    padding-right: 4px;
+    float: left;
+    overflow: hidden;
+}
+
+.opcoes_itens_registros_tabela_turismo{
+    width: 120px;
+    height: 44px;
+    float: left;
+}
+
+.opcoes_itens_registros_tabela_turismo img{
+    width: 16px;
+    height: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,148 @@
+/*CSS da pagina Seja Bem Vindo */
+
+#caixa_cont{
+    
+    width: 198px;
+    height: 898px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left; 
+    border: 1px #4F71C4 solid;
+
+}
+
+/*Marketing*/
+
+#marketing{
+    
+    width: 1498px;
+    height: 100px;
+    font-size: 35pt;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+/*Contatos*/
+
+#area_contato_of{
+    width: 1485px;
+    height: 570px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px #4F71C4 solid;
+    
+    
+    
+}
+#menu_contato{
+    width: 210px;
+    height: 640px;
+    background-color: #4F71C4;
+    padding-top: 10px;
+    float: left;
+}
+
+
+.espaco_menu{
+    width: 210px;
+    height: 50px;
+    color:#ffffff;
+    background:#161617;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 40px; 
+    
+}
+.espaco_menu:hover{
+    width: 210px;
+    height: 50px;
+    transition: 1s;
+    color:#FF7500;
+    background:#161617;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 40px; 
+    
+}
+
+#contatos{
+    width: 100%;
+    height: 100%;
+/*    background-color: dodgerblue;*/
+    
+    
+}
+
+
+#caixa_titulo{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 30pt;
+/*    line-height: 10px;*/
+/*    background-color: blueviolet;*/
+    
+}
+
+
+.cont{
+    
+    width: 1480px;
+    height: 630px;
+    margin-left: auto;
+    margin-top: 10px;
+   
+}
+
+.caixa_MVV1{
+    width: 1480px;
+    height: 100px;
+    margin-top: 20px;
+    
+
+    
+    
+}
+
+.caixa_MVV{
+    width: 1000px;
+    height: 100px;
+/*    background-color: forestgreen;*/
+    
+    
+}
+
+#caixa_texto{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+
+#ajuste{
+    font-size: 20pt;
+    
+    
+}
+
+/*Lista Missão*/
+
+#list_missao{
+    width: 1000px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 10px;
+    overflow: auto;
+    
+}
+#botao{
+    width: 80px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 20px;
+/*    margin: auto;*/
+}

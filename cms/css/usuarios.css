@@ -1,0 +1,74 @@
+#user_area_campos_usuario{
+    height: 256px;
+    width: 1400px;
+/*    background-color: blue;*/
+    margin-top: 05px;
+}
+
+.linhas_campos_usuario{
+    width: 900px;
+    margin: auto;
+    height: 40px;
+/*    background-color: dodgerblue;*/
+    font-size: 15pt;
+    font-family: 'Verdana';
+}
+
+#titulo_pagina_usuario1{
+    width: 400px;
+    height: 50px;
+/*    background-color: dodgerblue;*/
+        line-height: 50px;
+    font-size: 20pt;
+    font-family: 'Verdana';
+    text-align: center;
+    margin: auto;
+}
+
+#caixaUsuario{
+    height: 680px;
+    width: 1400px;
+  
+}
+
+#menuUsuario_of{
+    height: 45px;
+    width: 100%;
+/*    background-color: forestgreen;*/
+}
+
+.opc_user{
+    height: 38px;
+    width: 220px;
+    margin-top: 5px;
+     background-color: #161617;
+    color: #D1581A;
+    font-size: 18pt;
+    text-align: center;
+    font-family: 'Verdana';
+    float: left;
+    margin-left: 05px;
+    border: solid 1px;
+}
+
+#cresceUsuario1{
+    width: 100%;
+    height: 630px;
+    overflow: auto;
+    
+}
+
+.ola11{
+        width: 220px;
+        height: 50px;
+    border: solid 1px;
+/*
+        border-right: solid 1px #000;
+        border-left: solid 1px #000;
+*/
+  
+        text-align: center;
+        line-height: 50px;
+        float: left;
+    margin-left: 05px;
+}

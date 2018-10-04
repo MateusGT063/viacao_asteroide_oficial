@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+modal{
+	width:1000px;
+	height:100px;
+	background-color:magenta;
+	margin:auto;
+	margin-top:200px;
+
+}
+
+.modalContainer{
+	width:99%;
+	height:99%;
+	background: rgba(0, 0, 0, 0.7);
+	position:fixed;
+	display:none;
+    padding: 0;
+    position: absolute;
+    z-index: 10;
+	
+
+}
+

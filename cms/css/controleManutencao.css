@@ -1,0 +1,263 @@
+/*CSS da pagina Seja Bem Vindo */
+
+/* Área do conteudo */
+
+#area_adm_passageiros{
+    width: 1400px;
+    height: 700px;
+/*    padding: 50px;*/
+    float: left;
+/*    background-color: aqua;*/
+}
+
+#caixa_dentro_area_adm_passageiros{
+    width: 100%;
+    min-height: 1px;
+    margin: auto;
+    height: auto;
+    overflow: hidden;
+/*    background-color: dimgrey;*/
+}
+
+
+/*************************************************/
+/* Modularização dos botões que aparecem em cima */
+
+#titulo_pagina_pass{
+    width: 400px;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 26pt;
+    margin-top: 5px;
+/*    background-color: aliceblue;*/
+}
+
+#botoes_cima{
+    width: 1378px;
+    height: 85px;
+    padding-left: 10px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+#botoes_cima ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#botoes_cima ul li{
+    width: 170px;
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    font-size: 18pt;
+    line-height: 60px;
+    border-right: solid 1px #4F71C4;
+    border-left: solid 1px #4F71C4;
+}
+
+/*************************************************/
+
+#segura_conteudo{
+    width: 90%;
+    height: auto;
+    min-height: 100px;
+    overflow: hidden;
+    border: solid 1px #4F71C4;
+/*    background-color: antiquewhite;*/
+    margin: auto;
+}
+
+/* Parte do menu lateral */
+
+
+#menu_lateral_area_turismo{
+    width: 300px;
+    height: 600px;
+    padding-top: 20px;
+    background-color: #4F71C4;
+    float: left;
+}
+
+#menu_lateral_area_turismo ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu_lateral_area_turismo ul li{
+    width: 300px;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 18pt;
+    text-align: center;
+    line-height: 50px;
+    background-color: #8191FF;
+    margin-bottom: 20px;
+}
+
+
+/* Parte do cadastro! */
+
+#cadastro_turismo{
+    width: 90%;
+    height: auto;
+/*    float: left;*/
+    font-size: 15pt;
+/*    background-color: aqua;*/
+    margin-left: 50px;
+}
+
+#titulo_pagina{
+    width: 1100px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 22pt;
+}
+
+
+
+/* Lugar onde sera a tabela com as dicas e as opcoes do crud*/
+
+#caixaPassageiros{
+    width: 100%;
+    height: 620px;
+/*    background-color: deepskyblue;*/
+    margin: auto;
+    margin-top: 20px;
+}
+
+#titlePassageiros{
+    min-height: 5px;
+    height: auto;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+    font-family: 'Verdana';
+    font-size: 15pt;
+    text-align: center;
+}
+
+.tituloManutencao{
+/*    margin-left: 10px;*/
+    width: 223px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    background-color: #161617;
+    color: #DF8755;
+}
+
+
+
+#caixaCresceManutencao{
+    height: 589px;
+    overflow: auto;
+    width: 100%;
+    margin: auto;
+/*    background-color: blue;*/
+}
+
+.conteudoManutencao{
+    height: 37px;
+    width: 223px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: aliceblue;
+    overflow: auto;
+    padding-top: 15px;
+}
+
+.conteudoManutencao1{
+    height: 47px;
+    width: 223px;
+    float: left;
+    margin-left: 3px;
+    border: solid 1px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: aliceblue;
+    overflow: auto;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+/* Área da tabela que mostra todos os registros */
+
+
+#area_tabela_turismo{
+    width: 1100px;
+    height: 275px;
+    padding-top: 5px;
+    background-color: red;
+}
+
+#tabela_turismo{
+    width: 800px;
+    height: 270px;
+    margin: auto;
+    border: solid 1px #4F71C4;
+}
+
+#linha_cima_tabela_turismo{
+    width: 800px;
+    height: 20px;
+    text-align: center;
+    background-color: #4F71C4;
+}
+
+.itens_tabela_turismo{
+    width: 220px;
+    height: 20px;
+    float: left;
+}
+
+#opcoes_itens_tabela_turismo{
+    width: 120px;
+    height: 20px;
+    float: left;
+}
+
+#caixa_mostra_registros_tabela_turismo{
+    width: 800px;
+    height: 250px;
+    text-align: center;
+    line-height: 44px;
+    overflow: auto;
+}
+
+.itens_registros_tabela_turismo{
+    width: 212px;
+    height: 44px;
+    padding-left: 4px;
+    padding-right: 4px;
+    float: left;
+    overflow: hidden;
+}
+
+.opcoes_itens_registros_tabela_turismo{
+    width: 120px;
+    height: 44px;
+    float: left;
+}
+
+.opcoes_itens_registros_tabela_turismo img{
+    width: 16px;
+    height: 16px;
+}
+

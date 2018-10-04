@@ -1,0 +1,15 @@
+/*CSS da parte de conteudo da página Seja Bem Vindo*/
+
+
+#bem_vindo{
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    font-size: 40pt;
+    text-align: center;
+    line-height: 728px;
+    border: 1px #4F71C4 solid;
+    background-color: aliceblue;
+}

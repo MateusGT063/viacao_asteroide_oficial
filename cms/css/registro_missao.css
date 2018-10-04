@@ -1,0 +1,378 @@
+/*CSS da pagina Seja Bem Vindo */
+
+
+
+#caixa_cont11{
+
+    width: 100%;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    border: 1px #161617 solid;
+
+
+}
+
+/*Marketing*/
+
+#marketing11{
+    width: 490px;
+    height: 50px;
+    font-size: 33pt;
+    text-align: center;
+/*    line-height: 100px;*/
+    margin: auto;
+
+}
+
+#marketing_missao_of{
+    width: 490px;
+    height: 50px;
+    font-size: 30pt;
+     font-size: 33pt;
+    text-align: center;
+    line-height: 50px;
+    margin: auto;
+   
+    
+
+}
+
+#menuMarketing{
+
+    width: 440px;
+    margin: auto;
+    height: 50px;
+    margin-top: 30px;
+    
+
+}
+
+.menu{
+
+    width: 169px;
+    height: 50px;
+    float: left;
+    margin-left: 30px;
+    font-size: 20pt;
+    text-align: center;
+    line-height: 50px;
+    border: 1px #f09136 solid;
+}
+
+.menu:hover
+{
+  transition: 1s;
+  box-shadow: inset 0 0 0 25px #FFBD59;
+}
+
+/*Contatos*/
+
+#area_contato_of11{
+    width: 99.7%;
+    min-height: 630px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px #1c1c1e solid;
+/*    background-color: ;*/
+
+}
+
+#area_contato_of{
+    width: 1430px;
+    height: 620px;
+    margin-top: 10px;
+/*    overflow: scroll;*/
+    float: left;
+    border: 1px #1c1c1e solid;
+    
+
+
+
+}
+
+#menu_contato{
+    width: 210px;
+    height: 640px;
+    background-color: #4F71C4;
+/*  padding-top: 10px;*/
+    
+    float: left;
+/*    background-color: forestgreen;*/
+}
+
+
+
+/* PAGINA CADASTRO*/
+
+#menu_contato_of{
+    width: 210px;
+    height: 620px;
+/*    background-color: red;*/
+    padding-top: 10px;
+    float: left;
+    margin-left: -20px;
+     background:#1c1c1e;
+}
+
+.espaco_menu{
+    width: 210px;
+    height: 50px;
+    color:#ffffff;
+    background:#161617;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 40px;
+
+}
+
+.espaco_menu:hover{
+    width: 210px;
+    height: 50px;
+    transition: 1s;
+    color:#FF7500;
+    background:#161617;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 40px;
+
+}
+
+#contatos_of{
+    width: 1110px;
+/*    height: 97%;*/
+    float: left;
+    margin: 10px;
+/*    padding-top: 10px;*/
+/*    background-color: dimgray;*/
+
+
+}
+
+#contatos{
+    width: 1200px;
+   height: 500px;
+/*    padding-top: 20px;*/
+   
+/*    border: 1px #4F71C4 solid;*/  
+    float: left;
+    margin-left: 10px;
+}
+
+
+#caixa_titulo{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Verdana';
+    margin: 0px;
+    border-bottom: solid 1px;
+/*    background-color: dimgray;*/
+    margin: auto;
+
+}
+
+
+.cont{
+    width: 100%;
+    height: 500px;
+/*    margin-top: 10px;*/
+/*float: left;*/
+/*    background-color: antiquewhite;*/
+}
+
+.caixa_MVV1{
+    width: 99%;
+    height: 100px;
+/*    margin-top: 20px;*/
+/*    background-color: firebrick;*/
+    margin: 0;
+}
+
+.caixa_MVV{
+    width: 100%;
+    height: 100px;
+/*    margin-left: 300px;*/
+    margin: auto;
+/*    background-color: forestgreen;*/
+}
+
+#caixa_texto{
+    width: 1070px;
+    height: 90px;
+    resize: none;
+    float: left;
+    margin-left: 10px;
+/*    background-color: aqua;*/
+}
+
+
+#ajuste{
+    font-size: 20pt;
+/*margin-left: 550px;*/
+
+}
+
+/*Lista Missão*/
+
+#list_missao{
+    width: 1000px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 20px;
+    
+
+}
+
+#alinhamentoBt1{
+    width: 110px;
+    height: 50px;
+/*    background-color: forestgreen;*/
+    margin: auto;
+}
+
+#botao{
+    width: 80px;
+    height: 40px;
+    font-family: 'Verdana';
+    font-size: 15pt;
+/*    background-color: blueviolet;*/
+/*    padding-left: 10px;*/
+}
+
+/*Lista do registros*/
+
+#espaco_list1{
+
+    width: 1200px;
+    height: 95%;
+    margin-left: auto;
+    margin-top: 10px;
+   
+
+}
+
+
+}
+
+#sust_list{
+  width: 100%;
+  height: 50px;
+/*  border: 1px #4F71C4 solid;*/
+  background-color: dimgrey;
+    margin-right: 100px;
+
+}
+
+#sust_list1{
+    width: 100%;
+    height: 500px;
+    overflow: auto;
+   
+
+
+}
+
+.mvv_of{
+  width: 260px;
+  height: 39px;
+  float: left;
+  margin-left: 18px;
+  font-size: 20pt;
+    margin-top: 5px;
+  text-align: center;
+/*  line-height: 50px;*/
+   background-color: #161617;
+    color: #DF8755;
+    border: solid 1px;
+    
+
+}
+
+#cont_list{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+
+    
+   
+
+}
+
+.mvv1{
+  width: 260px;
+  height: 50px;
+  float: left;
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 17pt;
+  text-align: center;
+  line-height: 50px;
+  overflow: auto;
+/*  margin-top: 20px;*/
+    border: solid 1px;
+ 
+
+}
+
+.mvv{
+  width: 242px;
+  height: 50px;
+  background-color: red;
+  padding-left: 7px;
+  float: left;
+  margin-left: 53px;
+  font-size: 20pt;
+  text-align: center;
+  background-color: #161617;
+  color: #D1581A;
+  line-height: 50px;
+
+}
+
+.mvv1 img{
+width: 30px;
+height: 30px;
+margin-right: 10px;
+/*    background-color: firebrick;*/
+
+}
+
+.mvv1 img:hover
+{
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+        transition: 1s;
+}
+
+#ftMissaoOp{
+    width: 100%;
+    height: 40px;
+    margin: auto;
+    float: left;
+/*    background-color: aqua;*/
+    
+}#ftMissaoOp img{
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    float: left;
+   
+}
+
+.alinhaFtOpcoes{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 35px;
+
+/*    background-color: aliceblue;*/
+    float: left;
+}

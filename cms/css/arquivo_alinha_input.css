@@ -1,0 +1,270 @@
+/*CSS da parte de conteudo da página Seja Bem Vindo*/
+
+.inputUsuario{
+    height: 25px;
+    width: 290px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px; 
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.marginLeft10{
+    margin-left: 10px;
+}
+
+.textCenter{
+    padding-left: 15px;
+    
+}
+
+.caixaItensUser{
+    width: 400px;
+    height: 35px;
+/*    background-color: dimgray;*/
+    float: left;
+    margin-left: 25px;
+}
+
+.caixaItensUser1{
+    width: 400px;
+    height: 35px;
+/*    background-color: dimgray;*/
+    float: left;
+    margin-left: 55px;
+}
+
+.caixaGrandeItensUser{
+    width: 455px;
+    height: 35px;
+/*    background-color: burlywood;*/
+    float: left;
+    margin-left: 10px;
+}
+
+.caixaGrandeItensUser1{
+    width: 350px;
+    height: 35px;
+/*    background-color: burlywood;*/
+    float: left;
+    margin-left: 10px;
+}
+
+.caixaPequenaItensUser{
+    width: 400px;
+    height: 35px;
+/*    background-color: forestgreen;*/
+    float: left;
+/*    margin-left: 25px;*/
+}
+
+.alinhaCidades{
+    height: 30px;
+    width: 120px;
+    text-align: center;
+}
+
+.borda5px{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.borda15px{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px; 
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.botaoS{
+    width: 120px;
+    height: 40px;
+/*    background-color: aliceblue;*/
+    margin: auto;
+}
+
+.alinhaBt{
+    height: 40px;
+    margin-top: 5px;
+    font-family: 'Verdana'; 
+    font-size: 15pt;    
+    width: 120px;
+}
+
+.lineHeight50{
+    line-height: 50px;
+}
+
+.fontFamily{
+    font-size: 15pt;
+    font-family: 'Verdana';
+}
+
+.padding15px{
+    padding-left: 15px;
+}
+
+.alinhaTextArea{
+    width: 300px;
+    height: 100px;
+}
+
+.alinhamentoSelect{
+    height: 30px;
+    width: 220px;
+    text-align: center;
+}
+
+.textAling{
+    text-align: center;
+}
+
+.alinhaCaixaPequenas{
+    height: 25px;
+    width: 138px;
+    float: left;
+/*    text-align: center;*/
+}
+
+.slaDest{
+    height: 35px;
+    width: 870px;
+    float: left;
+    margin-left: 75px;
+/*    background-color: antiquewhite;*/
+}
+
+.margin11{
+/*    margin-left: 18px;*/
+}
+
+.slaDest11{
+    height: 50px;
+    width: 870px;
+    float: left;
+    margin-left: 75px;
+/*    background-color: antiquewhite;*/
+}
+
+#textDest{
+    height: 45px;
+    width: 200px;
+    float: left;
+/*    background-color: aqua;*/
+}
+
+.alinhaTextMan{
+    height: 40px;
+    width: 200px;
+}
+
+.alinhaRota{
+    height: 24px;
+    width: 230px;
+    margin-left: 5px;
+}
+
+#caixaPrincipalDest{
+    height: 248px;
+    width: 1380px;
+/*    background-color: fuchsia;*/
+    margin: auto;
+    overflow-y: auto;
+}
+
+#caixaTitleDest{
+    height: 32px;
+    margin-top: 5px;
+    width: 100%;
+    margin-left: 22px;
+/*    background-color: blue;*/
+}
+
+.titleDest{
+    height: 30px;
+    width: 150px;
+    background-color: #161617;
+    color: #D1581A;
+    float: left;
+    font-size: 15pt;
+    font-family: 'verdana';
+    text-align: center;
+    border: solid 1px;
+    margin-left: 3px;
+}
+
+.titleDest1{
+    height: 30px;
+    width: 190px;
+     background-color: #161617;
+    color: #D1581A;
+    float: left;
+    font-size: 15pt;
+    border: solid 1px;
+    margin-left: 3px;
+    font-family: 'verdana';
+    text-align: center;
+}
+
+.seguraContDest{
+    height: auto;
+    overflow: auto;
+    width: 100%;
+    font-size: 15pt;
+/*    background-color: darkgoldenrod;*/
+}
+
+.caixinhaDest{
+    height: 50px;
+    float: left;
+    width: 190px;
+    overflow: auto;
+    margin-left: 3px;
+    background-color: aliceblue;
+    text-align: center;
+    border:  solid 1px;
+    line-height: 50px;
+}
+
+.caixinhaDest1{
+    height: 50px;
+    width: 150px;
+    float: left;
+    line-height: 50px;
+    margin-left: 3px;
+    overflow: auto;
+    background-color: aliceblue;
+    text-align: center;
+    border:  solid 1px;
+}
+
+.caixinhaDest2{
+    height: 50px;
+    width: 190px;
+    float: left;
+/*    line-height: 50px;*/
+    margin-left: 3px;
+    overflow: auto;
+    background-color: aliceblue;
+    text-align: center;
+    border:  solid 1px;
+}
+
+.caixinhaDest12{
+    height: 50px;
+    width: 150px;
+    float: left;
+    line-height: 50px;
+    margin-left: 3px;
+/*    overflow: auto;*/
+    background-color: aliceblue;
+    text-align: center;
+    border:  solid 1px;
+}
+
+.caixinhaDest12 img{
+    width: 65px;
+    height: 48px;
+}
